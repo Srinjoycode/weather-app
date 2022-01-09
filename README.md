@@ -11,6 +11,6 @@ Finally I completed my project using Microsoft azure to publish my project over 
 Primary Azure Technology:- Azure Web Apps, App Service, API Apps
 Other Azure Technologies:- Visual Studio Code
 ### Project Link (GitHub repository URL):- 
-https://github.com/Srinjoycode/weather-app
+
 ### Project Demo URL:-
-https://victorious-grass-02e205f10.azurestaticapps.net/
+
